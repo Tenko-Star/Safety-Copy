@@ -1,0 +1,25 @@
+{
+  "name": "safety-copy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "serve": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tenko-Star/Safety-Copy.git"
+  },
+  "author": "Tenko-Star",
+  "license": "LGPL-2.1-or-later",
+  "bugs": {
+    "url": "https://github.com/Tenko-Star/Safety-Copy/issues"
+  },
+  "homepage": "https://github.com/Tenko-Star/Safety-Copy#readme",
+  "dependencies": {
+    "koa": "^2.13.4",
+    "koa-router": "^10.1.1",
+    "koa-websocket": "^7.0.0"
+  }
+}
